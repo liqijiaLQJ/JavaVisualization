@@ -31,7 +31,7 @@ JDK：1.8.0_241
 # 图表
 包括柱状图、圆环图、折线图和地图
 
-![image](https://github.com/LQJ1997/JavaVisualization/blob/master/pictures/2.png)
+![image](https://github.com/LQJ1997/JavaVisualization/blob/master/pictures/1.png)
 
 ![image](https://github.com/LQJ1997/JavaVisualization/blob/master/pictures/2.png)
 
