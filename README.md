@@ -22,10 +22,21 @@ JDK：1.8.0_241
 
 数据库：mysql
 
-# 图表
-包括柱状图、圆环图、折线图和地图
 
 # 注意事项
 关于IDEA中Web项目创建可参考博客：https://blog.csdn.net/qq_38526573/article/details/89743221
 
 注意：servlet连数据库会找不到驱动类，需要把connector jar包放入tomcat 的common/lib下 ！
+
+# 图表
+包括柱状图、圆环图、折线图和地图
+
+https://github.com/LQJ1997/JavaVisualization/blob/master/pictures/1.png
+
+https://github.com/LQJ1997/JavaVisualization/blob/master/pictures/2.png
+
+https://github.com/LQJ1997/JavaVisualization/blob/master/pictures/3.png
+
+https://github.com/LQJ1997/JavaVisualization/blob/master/pictures/4.png
+
+https://github.com/LQJ1997/JavaVisualization/blob/master/pictures/5.png
