@@ -2,6 +2,7 @@
 
 # 数据准备
 https://github.com/Avens666/COVID-19-2019-nCoV-Infection-Data-cleaning-/tree/master/data   3.18数据更新
+
 本项目进行了数据处理，将其存储到mysql数据库中
 
 # 开发环境
